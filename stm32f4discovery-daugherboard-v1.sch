@@ -20751,6 +20751,7 @@ Source: http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf</description>
 <sheet>
 <plain>
 <text x="-111.76" y="-83.82" size="1.778" layer="91">STM32F4 Discovery Daughterboard version 1</text>
+<text x="-10.16" y="-20.32" size="1.778" layer="91">In most cases, BOOT1 is not needed</text>
 </plain>
 <instances>
 <instance part="LEFT" gate="A" x="-33.02" y="40.64" smashed="yes">
