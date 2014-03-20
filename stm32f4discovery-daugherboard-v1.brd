@@ -254,6 +254,7 @@
 <text x="8.89" y="62.992" size="1.016" layer="26" rot="SMR270">SIGNAL</text>
 <text x="67.564" y="48.006" size="2.54" layer="25">V1</text>
 <text x="71.628" y="48.006" size="2.54" layer="26" rot="MR0">V1</text>
+<text x="-16.51" y="84.074" size="6.4516" layer="25">this version it not up to date, look at the tht version !!!</text>
 </plain>
 <libraries>
 <library name="pinhead">

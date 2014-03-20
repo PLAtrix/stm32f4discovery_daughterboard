@@ -20167,6 +20167,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <plain>
 <text x="-111.76" y="-83.82" size="1.778" layer="91">STM32F4 Discovery Daughterboard version 1</text>
 <text x="-10.16" y="-20.32" size="1.778" layer="91">In most cases, BOOT1 is not needed</text>
+<text x="-109.22" y="-114.3" size="6.4516" layer="91">this version is not up to date, look at the tht version !!!</text>
 </plain>
 <instances>
 <instance part="LEFT" gate="A" x="-33.02" y="40.64" smashed="yes">
