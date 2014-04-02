@@ -16495,8 +16495,8 @@ design rules under a new name.</description>
 <element name="D11" library="diode" package="DO41-7.6_2" value="1N4007" x="78.74" y="28.448" smashed="yes"/>
 <element name="D12" library="diode" package="DO41-7.6_2" value="1N4007" x="88.392" y="28.448" smashed="yes"/>
 <element name="U$4" library="paparazzi" package="PAPARAZZI_1400" value="üAüARAZZI_1400" x="54.61" y="12.954"/>
-<element name="D13" library="diode" package="DO41-7.6_2" value="1N4007" x="14.986" y="16.256" smashed="yes" rot="R305">
-<attribute name="NAME" x="18.470509375" y="12.3789125" size="1.27" layer="25" ratio="10"/>
+<element name="D13" library="diode" package="DO41-7.6_2" value="1N4007" x="14.732" y="16.51" smashed="yes" rot="R305">
+<attribute name="NAME" x="18.216509375" y="12.6329125" size="1.27" layer="25" ratio="10"/>
 </element>
 <element name="D14" library="diode" package="DO41-7.6_2" value="1N4007" x="93.98" y="11.176" smashed="yes" rot="R180">
 <attribute name="NAME" x="92.202" y="13.843" size="1.27" layer="25" ratio="10" rot="R180"/>
@@ -17792,9 +17792,9 @@ design rules under a new name.</description>
 <vertex x="22.606" y="17.272"/>
 <vertex x="21.082" y="18.796"/>
 <vertex x="15.24" y="18.796"/>
-<vertex x="13.716" y="20.32"/>
-<vertex x="11.938" y="20.32"/>
-<vertex x="10.668" y="19.05"/>
+<vertex x="13.462" y="20.574"/>
+<vertex x="11.684" y="20.574"/>
+<vertex x="10.16" y="19.05"/>
 <vertex x="8.128" y="19.05"/>
 <vertex x="6.604" y="20.574"/>
 <vertex x="6.096" y="20.066"/>
@@ -17818,7 +17818,7 @@ design rules under a new name.</description>
 <wire x1="5.842" y1="26.416" x2="5.842" y2="28.956" width="0" layer="19" extent="1-1"/>
 <wire x1="5.842" y1="23.876" x2="5.842" y2="26.416" width="0" layer="19" extent="1-1"/>
 <wire x1="5.842" y1="21.336" x2="5.842" y2="23.876" width="0" layer="19" extent="1-1"/>
-<wire x1="11.684" y1="15.748" x2="12.800671875" y2="19.37696875" width="0" layer="19" extent="1-1"/>
+<wire x1="11.684" y1="15.748" x2="12.546671875" y2="19.63096875" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$2">
 <polygon width="0.254" layer="1" pour="cutout" rank="2">
