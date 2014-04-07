@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 02.04.2014 10:12:04
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 07/04/2014 22:34:12
 
 BeginCmp
 TimeStamp = /5332C3F1;
@@ -50,57 +50,71 @@ IdModule  = pushbutton_tactile;
 EndCmp
 
 BeginCmp
-TimeStamp = /53308676;
-Reference = C1;
-ValeurCmp = CAPAPOL;
-IdModule  = C2V8;
-EndCmp
-
-BeginCmp
-TimeStamp = /53308663;
-Reference = C2;
-ValeurCmp = CAPAPOL;
-IdModule  = C2V8;
-EndCmp
-
-BeginCmp
 TimeStamp = /5334159B;
-Reference = C4;
+Reference = C1;
 ValeurCmp = 100n;
 IdModule  = C1;
 EndCmp
 
 BeginCmp
 TimeStamp = /5331FFE7;
-Reference = C5;
+Reference = C2;
 ValeurCmp = 100n;
 IdModule  = C1;
 EndCmp
 
 BeginCmp
 TimeStamp = /533415A1;
-Reference = C6;
+Reference = C3;
 ValeurCmp = 100n;
 IdModule  = C1;
 EndCmp
 
 BeginCmp
 TimeStamp = /533415A7;
-Reference = C7;
+Reference = C4;
 ValeurCmp = 100n;
 IdModule  = C1;
 EndCmp
 
 BeginCmp
 TimeStamp = /533415AD;
-Reference = C8;
+Reference = C5;
 ValeurCmp = 100n;
 IdModule  = C1;
 EndCmp
 
 BeginCmp
 TimeStamp = /533415B3;
+Reference = C6;
+ValeurCmp = 100n;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /53308676;
+Reference = C7;
+ValeurCmp = CAPAPOL;
+IdModule  = C2V8;
+EndCmp
+
+BeginCmp
+TimeStamp = /53308663;
+Reference = C8;
+ValeurCmp = CAPAPOL;
+IdModule  = C2V8;
+EndCmp
+
+BeginCmp
+TimeStamp = /53430CB7;
 Reference = C9;
+ValeurCmp = 100n;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /53430CBD;
+Reference = C10;
 ValeurCmp = 100n;
 IdModule  = C1;
 EndCmp
