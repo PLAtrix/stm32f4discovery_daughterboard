@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 07/04/2014 22:34:12
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 08/04/2014 13:07:29
 
 BeginCmp
 TimeStamp = /5332C3F1;
@@ -123,105 +123,105 @@ BeginCmp
 TimeStamp = /53306EE2;
 Reference = D1;
 ValeurCmp = DIODE;
-IdModule  = D3;
+IdModule  = do41_modified;
 EndCmp
 
 BeginCmp
 TimeStamp = /53306EEF;
 Reference = D2;
 ValeurCmp = DIODE;
-IdModule  = D3;
+IdModule  = do41_modified;
 EndCmp
 
 BeginCmp
 TimeStamp = /53306F42;
 Reference = D3;
 ValeurCmp = DIODE;
-IdModule  = D3;
+IdModule  = do41_modified;
 EndCmp
 
 BeginCmp
 TimeStamp = /53306F48;
 Reference = D4;
 ValeurCmp = DIODE;
-IdModule  = D3;
+IdModule  = do41_modified;
 EndCmp
 
 BeginCmp
 TimeStamp = /53306F64;
 Reference = D5;
 ValeurCmp = DIODE;
-IdModule  = D3;
+IdModule  = do41_modified;
 EndCmp
 
 BeginCmp
 TimeStamp = /53306F6A;
 Reference = D6;
 ValeurCmp = DIODE;
-IdModule  = D3;
+IdModule  = do41_modified;
 EndCmp
 
 BeginCmp
 TimeStamp = /53306F86;
 Reference = D7;
 ValeurCmp = DIODE;
-IdModule  = D3;
+IdModule  = do41_modified;
 EndCmp
 
 BeginCmp
 TimeStamp = /53306F8C;
 Reference = D8;
 ValeurCmp = DIODE;
-IdModule  = D3;
+IdModule  = do41_modified;
 EndCmp
 
 BeginCmp
 TimeStamp = /53306FA8;
 Reference = D9;
 ValeurCmp = DIODE;
-IdModule  = D3;
+IdModule  = do41_modified;
 EndCmp
 
 BeginCmp
 TimeStamp = /53306FAE;
 Reference = D10;
 ValeurCmp = DIODE;
-IdModule  = D3;
+IdModule  = do41_modified;
 EndCmp
 
 BeginCmp
 TimeStamp = /53306FCA;
 Reference = D11;
 ValeurCmp = DIODE;
-IdModule  = D3;
+IdModule  = do41_modified;
 EndCmp
 
 BeginCmp
 TimeStamp = /53306FD0;
 Reference = D12;
 ValeurCmp = DIODE;
-IdModule  = D3;
+IdModule  = do41_modified;
 EndCmp
 
 BeginCmp
 TimeStamp = /53308639;
 Reference = D13;
 ValeurCmp = DIODE;
-IdModule  = D3;
+IdModule  = do41_modified;
 EndCmp
 
 BeginCmp
 TimeStamp = /5330864C;
 Reference = D14;
 ValeurCmp = DIODE;
-IdModule  = D3;
+IdModule  = do41_modified;
 EndCmp
 
 BeginCmp
 TimeStamp = /5335D259;
 Reference = D15;
 ValeurCmp = DIODE;
-IdModule  = D3;
+IdModule  = do41_modified;
 EndCmp
 
 BeginCmp
